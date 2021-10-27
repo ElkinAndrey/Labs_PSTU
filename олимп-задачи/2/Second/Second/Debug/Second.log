@@ -1,0 +1,3 @@
+﻿  Second.cpp
+D:\Study\Информатика и Основы алгоритмизации и программирования\ДЗ_21.10.26\1\Second\Second\Second.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Second.vcxproj -> D:\Study\Информатика и Основы алгоритмизации и программирования\ДЗ_21.10.26\1\Second\Debug\Second.exe
